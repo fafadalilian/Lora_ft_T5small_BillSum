@@ -18,4 +18,3 @@ This project fine-tunes the T5-small model with Low-Rank Adaptation (LoRA) on th
   - **Subset:** California state bills
 - **Purpose:** The dataset includes a collection of U.S. Congressional and California state bills, with corresponding summaries. For this project, we focused on the California state bills to fine-tune the model for summarizing state-level legislative documents.
 
-### LoRA Confi
